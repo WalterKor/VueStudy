@@ -68,7 +68,7 @@
         </nav>
 
         <router-view :blogdata="blogdata"></router-view>
-
+        
         <!-- <a href="/list">리스트</a>
         <br />
         <router-link to="/list">리스트페이지</router-link>
