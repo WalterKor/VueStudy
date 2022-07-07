@@ -18,7 +18,7 @@ import UserList from './components/UserList.vue';
 export default {
   components: {
     TodoList,
-    AddTodo,
+    AddTo
     CompletedTodo,
     UserList
   },
